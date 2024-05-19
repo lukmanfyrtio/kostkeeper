@@ -12,6 +12,15 @@
 
 KostKeeper is a web-based application designed to streamline the management of boarding houses or "kosts". With its simplicity and user-friendly interface, KostKeeper aims to provide an accessible solution for beginners in web development to understand and grasp the fundamentals of coding.
 
+# Preview Of Application 
+HomePage
+![image](https://github.com/lukmanfyrtio/kostkeeper/assets/48387814/c7811b64-eb72-4842-87e2-e1ce6a4b286b)
+Tambah Data
+![tambah](https://github.com/lukmanfyrtio/kostkeeper/assets/48387814/6f0a534f-07df-4c54-b331-de9cb5d2119f)
+Ubah Data
+![image](https://github.com/lukmanfyrtio/kostkeeper/assets/48387814/d8de0467-8291-4082-b73a-8fb75f6035e9)
+
+
 ## Specifications:
 
 - **Language:** PHP (Native)
