@@ -1,6 +1,12 @@
 # KostKeeper
 
-**Author:** Lukman
+**Author:** 
+NIM : 220401010187
+Nama Mahasiswa : LUKMAN
+Program Studi: S1 - PJJ Informatika
+Mata Kuliah : Pemrograman Web II
+Dosen Pengajar : R. Muhamad Firzatullah, S.Pd, M.Kom
+Kelas : IT 402
 
 ## Introduction:
 
